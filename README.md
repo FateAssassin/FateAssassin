@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FateAssassin
 - 👀 I’m interested in Formula 1, aviation and coding!
-- 🌱 I’m currently learning Django for backend webdeveloping!
+- 🌱 I’m currently learning Flask for backend webdeveloping!
 - 📫 How to reach me:
     Discord: FateAssassin#2344
     
